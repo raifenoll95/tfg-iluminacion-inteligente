@@ -17,7 +17,7 @@ import java.time.Duration;
 import java.util.Calendar;
 import java.util.Date;
 
-public class ClienteTFG {
+public class Cliente {
 	
 	private static final DateTimeFormatter dtf = DateTimeFormatter.ISO_DATE_TIME; 
 
@@ -117,7 +117,7 @@ public class ClienteTFG {
 
 	public static void main(String[] args) {
 
-		ClienteTFG cl = new ClienteTFG();
+		Cliente cl = new Cliente();
 
 		//Se le debe pasar la ip del cliente y el puerto del servidor
 		if (args.length < 2) {
