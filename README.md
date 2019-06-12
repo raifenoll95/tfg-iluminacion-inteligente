@@ -23,3 +23,21 @@ El servidor recibe dichas fotografías, las procesa para detectar la presencia d
 - ImageAI -> Instalación de todo lo necesario para usar yolo.h5 -> https://github.com/OlafenwaMoses/ImageAI
 
 ## Despliegue
+
+### Servidor (Iniciamos el servidor, estamos a la espera para detectar peatones)
+1. ``` javac ServidorConcurrente.java HiloServidor.java ```
+2. ``` java ServidorConcurrente 9999 ```
+3. ``` python3 Detection.py ```
+
+### Raspberry Pi (Ejecutamos servidor para recibir confirmaciones, ejecutamos cliente para empezar a enviar imagenes a servidor)
+4. ``` javac Servidor.java ```
+5. ``` java Servidor 8888 ```
+6. ``` javac Cliente.java ```
+7. ``` java Cliente ip_servidor 9999 ```
+
+### Servidor (Ponemos el cliente preparado)
+8. ``` javac Cliente.java ```
+9. ``` java Cliente ip_raspberry 8888 ```
+
+### Raspberry Pi (Empezamos a hacer fotografías!!!!)
+10. ``` python3 camera.py ```
