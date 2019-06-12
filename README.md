@@ -41,3 +41,9 @@ El servidor recibe dichas fotografías, las procesa para detectar la presencia d
 
 ### Raspberry Pi (Empezamos a hacer fotografías!!!!)
 10. ``` python3 camera.py ```
+
+## Autor
+Raimundo Fenoll Albaladejo
+
+## Tutor
+Higinio Mora Mora
