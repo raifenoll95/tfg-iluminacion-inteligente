@@ -1,7 +1,7 @@
 //Raimundo Fenoll Albaladejo. Diseño de Sistemas de Iluminación Inteligente
 //CODIGO QUE LA RASPBERRY USA PARA ENVIAR IMAGENES AL SERVIDOR
-//Compilacion -> javac ClienteTFG.java
-//Ejecucion -> java ClienteTFG ip_servidor puerto_servidor carpeta_donde_se_almacenan_las_fotografias_de_la_camara 
+//Compilacion -> javac Cliente.java
+//Ejecucion -> java Cliente ip_servidor puerto_servidor carpeta_donde_se_almacenan_las_fotografias_de_la_camara 
 
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
