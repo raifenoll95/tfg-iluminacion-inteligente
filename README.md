@@ -12,7 +12,14 @@ El servidor recibe dichas fotografías, las procesa para detectar la presencia d
 
 ## Prerrequisitos
 ### Prerrequisitos en la raspberry pi
+- Java JDK (Viene instalado en raspbian)
+- Python3 (viene instalado en raspbian)
+- Pi4j -> https://pi4j.com/1.2/install.html
+- picamera -> https://picamera.readthedocs.io/en/release-1.12/install.html
 
 ### Prerrequisitos en el servidor
+- Java JDK -> https://docs.oracle.com/javase/8/docs/technotes/guides/install/linux_jdk.html
+- Python3 -> https://www.python.org/download/releases/3.0/
+- ImageAI -> Instalación de todo lo necesario para usar yolo.h5 -> https://github.com/OlafenwaMoses/ImageAI
 
 ## Despliegue
