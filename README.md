@@ -11,5 +11,8 @@ La raspberry pi le va enviando las imágenes tomadas por la cámara a un servido
 El servidor recibe dichas fotografías, las procesa para detectar la presencia de peatones y le avisa a la raspberry pi cuando ha detectado un peatón, momento en el cuál la raspberry ilumina el led.
 
 ## Prerrequisitos
+### Prerrequisitos en la raspberry pi
+
+### Prerrequisitos en el servidor
 
 ## Despliegue
