@@ -1,8 +1,7 @@
 <p align="center">
 <img src="https://i.ibb.co/MNF93VD/hub.png" width="500">
 </p>
-# Diseño de sistemas de iluminación inteligente para el desarrollo de ciudades sostenibles
-Trabajo de fin de grado realizado durante el curso 2018/2019
+
 
 ## Objetivo
 El objetivo ha sido la propuesta de un diseño de sistema inteligente que aproveche las capacidades del paradigma IoT para sensorizar a peatones en la vía pública.
