@@ -181,7 +181,7 @@ def history(file,cont,num_persons,final_point_image):
 		file.write("Image " + str(cont) + ": LIGHTS OFF. " + str(num_persons) + " humans detects. " + str(final_point_image) + " seconds in process" + os.linesep)
 
 
-#Se encarga siempre de que solo hayan un numero de imagenes para no sobrecargar el servidor
+#Se encarga siempre que solo hayan un numero de imagenes para no sobrecargar el servidor
 def manejar_cola(cola,file):
 
 	#Mete elementos hasta que se llene la cola
