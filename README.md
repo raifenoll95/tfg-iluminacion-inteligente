@@ -1,4 +1,6 @@
-![alt text](https://i.ibb.co/MNF93VD/hub.png)
+<p align="center">
+<img src="https://i.ibb.co/MNF93VD/hub.png" width="500">
+</p>
 # Diseño de sistemas de iluminación inteligente para el desarrollo de ciudades sostenibles
 Trabajo de fin de grado realizado durante el curso 2018/2019
 
