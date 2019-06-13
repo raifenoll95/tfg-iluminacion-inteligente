@@ -18,6 +18,8 @@ El servidor recibe dichas fotografías, las procesa para detectar la presencia d
 - Pi4j -> https://pi4j.com/1.2/install.html
 - picamera -> https://picamera.readthedocs.io/en/release-1.12/install.html
 
+- Conectar la Raspberry Pi Camera y configurarla para -> https://projects.raspberrypi.org/en/projects/getting-started-with-picamera/4 
+
 ### Prerrequisitos en el servidor
 - Java JDK -> https://docs.oracle.com/javase/8/docs/technotes/guides/install/linux_jdk.html
 - Python3 -> https://www.python.org/download/releases/3.0/
