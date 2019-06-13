@@ -21,6 +21,7 @@ El servidor recibe dichas fotografías, las procesa para detectar la presencia d
 ### Prerrequisitos en el servidor
 - Java JDK -> https://docs.oracle.com/javase/8/docs/technotes/guides/install/linux_jdk.html
 - Python3 -> https://www.python.org/download/releases/3.0/
+- OpenCV -> https://www.learnopencv.com/install-opencv3-on-ubuntu/
 - ImageAI -> Instalación de todo lo necesario para usar yolo.h5 -> https://github.com/OlafenwaMoses/ImageAI
 
 ## Despliegue
