@@ -14,7 +14,7 @@ El servidor recibe dichas fotografías, las procesa para detectar la presencia d
 ## Prerrequisitos
 ### Prerrequisitos en la raspberry pi
 - Java JDK (Viene instalado en raspbian)
-- Python3 (viene instalado en raspbian)
+- Python3 (Viene instalado en raspbian)
 - Pi4j -> https://pi4j.com/1.2/install.html
 - picamera -> https://picamera.readthedocs.io/en/release-1.12/install.html
 - Configurar la cámara -> https://projects.raspberrypi.org/en/projects/getting-started-with-picamera/4 
