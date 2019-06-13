@@ -24,6 +24,7 @@ El servidor recibe dichas fotografías, las procesa para detectar la presencia d
 - Python3 -> https://www.python.org/download/releases/3.0/
 - OpenCV -> https://www.learnopencv.com/install-opencv3-on-ubuntu/
 - ImageAI -> Instalación de todo lo necesario para usar yolo.h5 -> https://github.com/OlafenwaMoses/ImageAI
+- yolo.h5 -> https://mega.nz/#!j4kBGIJB!M3k-zDlQXEdEAXZZc3frGZxi1dkw6zuxovfra8e3dnk
 
 ## Despliegue
 
